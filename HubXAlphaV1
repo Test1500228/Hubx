@@ -1,0 +1,2 @@
+getgenv().SecureMode = true
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Test1500228/Test/main/HubXAlphaV1", true))()
